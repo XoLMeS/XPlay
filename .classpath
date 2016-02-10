@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/eclipse/X1/XPlay/lwjgl-2.9.3/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/laf-plugin-7.2.1.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/laf-widget-7.2.1.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/lzma.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/substance-7.2.1.jar"/>
+	<classpathentry kind="lib" path="lwjgl-2.9.3/jar/trident-7.2.1.jar"/>
+	<classpathentry kind="lib" path="slick/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="slick/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="slick/lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="slick/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="slick/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="slick/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="slick/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="slick/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="slick/lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="slick/lib/natives-mac.jar"/>
+	<classpathentry kind="lib" path="slick/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="slick/lib/slick-examples.jar"/>
+	<classpathentry kind="lib" path="slick/lib/slick.jar"/>
+	<classpathentry kind="lib" path="slick/lib/tinylinepp.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/swt.jar"/>
+	<classpathentry kind="lib" path="tritonus"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/beads.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/beads-io.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/jarjar-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/jna.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/org-jaudiolibs-audioservers.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/org-jaudiolibs-audioservers-jack.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/org-jaudiolibs-audioservers-javasound.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/org-jaudiolibs-jnajack.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/tools.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/tritonus_aos-0.3.6.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/X1/XPlay/beads/library/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
